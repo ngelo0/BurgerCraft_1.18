@@ -10,5 +10,5 @@ Scarica lo zip,
 Apri Prism Launcher (MultiMC ma meglio), 
 Fai nuova istanza, 
 Importa da zip, 
-Sfoglia e carica quella sborrata merdosa del modpack preso dal codice sorgente del porco di dio, 
+Sfoglia e carica quella sborrata merdosa del modpack preso dalla release del porco di dio, 
 Divertiti e sborra.
